@@ -23,7 +23,7 @@ Welcome to Sreeja's Individual Github Page!
  > Yes, there are many elements preventing digital empowerment such as location, income, and general knowlege of the use of technology. Living in the US, and especially San Diego, many students and people are able to have multiple personal devices without an issue. However, moving away from the US, many developing countries such as India don't necassarily have the same privilge. These barriers exists virtually everywhere, at a larger or smaller scale depending on where you live.
  
 # Data Structures Project
-[Replit](https://replit.com/@SreejaVad/Nighthawk-Replit-Console-Project#main.py)
+[Code on Replit](https://replit.com/@SreejaVad/Nighthawk-Replit-Console-Project#main.py)
 
 ## Code:
  <img width="531" alt="image" src="https://user-images.githubusercontent.com/89220356/158208020-6f952f19-3d71-4e27-a0f7-ff2219b4c5e7.png">

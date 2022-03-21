@@ -1,23 +1,29 @@
 {% include navigation.html %}
 
-# TPT Work
+# TPT Work In Wiki
 
 <table>
 <tr>
 <td>Week 0</td>
 <td> 
- 5.1/5.2 Notes
+<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.1:-Beneficial-and-Harmful-Effects-of-Computing">5.1 Notes + Activity</a></b>
+
+<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.2:-Digital-Divide">5.2 Notes + Activity</a></b>
+
 </td>
 </tr>
 
 <tr>
 <td>Week 1</td>
 <td>  
-5.3/5.4 Notes
+<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.3:-Computing-Bias">5.3 Notes + Activity</a></b>
+
+<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.4:-Crowd-sourcing">5.4 Notes + Activity</a></b>
 </td>
 </tr>
 
 </table>
+
 
 # TPT & Test Prep
 

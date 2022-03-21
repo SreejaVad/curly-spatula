@@ -8,7 +8,7 @@
 <tr>
 <td>Week 0</td>
 <td> 
-  <a href="https://github.com/kamryns/curly-cupboard/issues/13#issue-1168808077_">Review Ticket, Week 0</a>
+  <a href="https://github.com/kamryns/curly-cupboard/issues/13">Review Ticket, Week 0</a>
 </td>
 </tr>
 

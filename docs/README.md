@@ -38,17 +38,6 @@ Welcome to Sreeja's Individual Github Page!
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 > Yes, there are many elements preventing digital empowerment such as location, income, and general knowlege of the use of technology. Living in the US, and especially San Diego, many students and people are able to have multiple personal devices without an issue. However, moving away from the US, many developing countries such as India don't necassarily have the same privilge. These barriers exists virtually everywhere, at a larger or smaller scale depending on where you live.
 
-# Data Structures Menu Project
-[Code on Replit](https://replit.com/@SreejaVad/Nighthawk-Replit-Console-Project#main.py)
-
-## Code:
- <img width="531" alt="image" src="https://user-images.githubusercontent.com/89220356/158208020-6f952f19-3d71-4e27-a0f7-ff2219b4c5e7.png">
-
-## Run Time:
- <img width="286" alt="image" src="https://user-images.githubusercontent.com/89220356/158208356-5837e999-85c6-4bf5-b0b4-aaca58602ecb.png">
- <img width="286" alt="image" src="https://user-images.githubusercontent.com/89220356/158208489-e7066a3b-692b-474b-a22b-ba0323c3db9d.png">
- <img width="405" alt="image" src="https://user-images.githubusercontent.com/89220356/158208561-c1b122b2-3668-4723-b3b9-b0e12bdb43a2.png">
-
 ## Tri 3 Big Idea 5.3: Computing Bias
 
 ### 5.3 Notes
@@ -59,17 +48,17 @@ Welcome to Sreeja's Individual Github Page!
 
 ### 5.3 Activity
 1. Does the owner of the computer think this was intentional?
-> I don't think the HP computor's creator intentionally made it so that mainly white men had access to the computor. However, it is impotant to note that no drastic steps have ben taken to improve this. 
+> I don't think the HP computor's creator intentionally made it so that mainly white men had access to the computor. However, it is impotant to note that no drastic steps have ben taken to improve this.
 2. If yes or no, justify you conclusion.
-> HP computors were marketed for the general-public. There were no signifiers that it was marketed towards the west only and not outside of that. 
+> HP computors were marketed for the general-public. There were no signifiers that it was marketed towards the west only and not outside of that.
 3. How do you think this happened?
-> I think this happened due to the digital divide and how many people could actually get access to these computors. The digtal devide has been an issue even going past HP. The only ay to fix this is help end the rampant poverty and un-eduction while also introducing technology such as computors. 
+> I think this happened due to the digital divide and how many people could actually get access to these computors. The digtal devide has been an issue even going past HP. The only ay to fix this is help end the rampant poverty and un-eduction while also introducing technology such as computors.
 4. Is this harmful? Was it intended to be harmful or exclude?
-> This divide is harmful, however, it wasn't in any way intentional. This unintentional exclusion can lead to a further seperation between the west and the rest of the country. 
+> This divide is harmful, however, it wasn't in any way intentional. This unintentional exclusion can lead to a further seperation between the west and the rest of the country.
 5. Should it be corrected?
-> This should be corrected in order to help introduce for progress into the world and close the digital divide. 
+> This should be corrected in order to help introduce for progress into the world and close the digital divide.
 6. What would you or should you do to produce a better outcome?
-> In order to produce a better outcome, we should be making electronics more available and inexpensive. As well as this, implementing more education on the internet can help people identify and emphasize the importance of technology. 
+> In order to produce a better outcome, we should be making electronics more available and inexpensive. As well as this, implementing more education on the internet can help people identify and emphasize the importance of technology.
 
 ## Tri 3 Big Idea 5.4: Crowdsourcing
 
@@ -87,6 +76,16 @@ Welcome to Sreeja's Individual Github Page!
 2. What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 > Especially for our project, croud sourcing is something that would be very beneficial. Since our website is a reading website, if we could implement a method for students to edit the summary of books it would help moer students and theorietically add in more reliable infromantion. While this would need a form of monitoring to ensure the information is true, it would add more exposure to more books.
 
+# Data Structures Menu Project
+[Code on Replit](https://replit.com/@SreejaVad/Nighthawk-Replit-Console-Project#main.py)
+
+## Code:
+ <img width="531" alt="image" src="https://user-images.githubusercontent.com/89220356/158208020-6f952f19-3d71-4e27-a0f7-ff2219b4c5e7.png">
+
+## Run Time:
+ <img width="286" alt="image" src="https://user-images.githubusercontent.com/89220356/158208356-5837e999-85c6-4bf5-b0b4-aaca58602ecb.png">
+ <img width="286" alt="image" src="https://user-images.githubusercontent.com/89220356/158208489-e7066a3b-692b-474b-a22b-ba0323c3db9d.png">
+ <img width="405" alt="image" src="https://user-images.githubusercontent.com/89220356/158208561-c1b122b2-3668-4723-b3b9-b0e12bdb43a2.png">
 
 # Create Task
 

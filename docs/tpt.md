@@ -9,7 +9,6 @@
 <b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.1:-Beneficial-and-Harmful-Effects-of-Computing">5.1 Notes + Activity</a></b>
 
 <b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.2:-Digital-Divide">5.2 Notes + Activity</a></b>
-
 </td>
 </tr>
 
@@ -33,6 +32,7 @@
 <td>Week 6</td>
 <td>  
 <b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Proctored-MCQ-Week1-:-Quiz1,-Quiz2-Test-Corrections">Quiz1, Quiz2 Test Corrections</a></b>
+
 </td>
 </tr>
 

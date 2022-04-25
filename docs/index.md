@@ -36,7 +36,7 @@
 <tr>
 <td>Week 5: Proctored MCQ Week1</td>
 <td>  
-<a href="https://github.com/SreejaVad/curly-spatula/projects/1#card-81097925" target="_blank">Review Ticket, Proctored MCQ Week1</a>
+<a href="https://github.com/SreejaVad/curly-spatula/issues/3" target="_blank">Review Ticket, Proctored MCQ Week1</a>
 <br><a href="https://github.com/SreejaVad/curly-spatula/issues/1" target="_blank">Study Plan+Reflection</a></br>
 
 

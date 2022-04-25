@@ -22,10 +22,226 @@
 </td>
 </tr>
 
+<td>Week 2</td>
+<td>  
+<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.5:-Legal-and-Ethical-Concerns">5.5 Notes + Activity</a></b>
+
+<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.6:-Safe-Computing">5.6 Notes + Activity</a></b>
+</td>
+</tr>
+
+<td>Week 6</td>
+<td>  
+<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Proctored-MCQ-Week1-:-Quiz1,-Quiz2-Test-Corrections">Quiz1, Quiz2 Test Corrections</a></b>
+</td>
+</tr>
+
 </table>
 
 
+# Proctored MCQ Week1 : Quiz1, Quiz2 Test Corrections
+
+## Quiz1 Score: 37/50
+
+## Quiz1 Test Corrections: 13 Questions
+
+* **Question: 9**
+> * Original Answer: C
+> * Correct Answer: B
+> * Why I Got It Wrong: Unlike in the original system, customers do not begin the call session by hearing a prerecorded message with answers to common questions.
+
+* **Question: 11**
+> * Original Answer: A
+> * Correct Answer: C
+> * Why I Got It Wrong:  This list would be helpful in deciding whether the customer should be directed to a representative or to a recording.
+
+* **Question: 20**
+> * Original Answer: B
+> * Correct Answer: A
+> * Why I Got It Wrong: If each list is sorted separately and then combined, the combined list will not necessarily be sorted.  When list1 and list2 are combined, the newList may have duplicates and will likely not be sorted. Performing the Sort and then the RemoveDuplicates procedures will result in a list that is sorted, has no duplicates, and contains the names of all the books found in either list1 or list2.
+
+* **Question: 21**
+> * Original Answer: A
+> * Correct Answer: C
+> * Why I Got It Wrong: The World Wide Web is not a protocol, and the Internet is not a data stream. The Internet is an interconnected network of networks, and the World Wide Web is an information system that is accessed via the Internet.
+
+* **Question: 23**
+> * Original Answer: A
+> * Correct Answer: B
+> * Why I Got It Wrong: The IP address of a user’s computer is required for the user to send and receive information on the Internet. The IP address in itself does not contain any extra information about the user.
+
+* **Question: 28**
+> * Original Answer: A
+> * Correct Answer: D
+> * Why I Got It Wrong: There are trade-offs involved in choosing a compression technique for storing and transmitting data.
+
+* **Question: 36**
+> * Original Answer: A
+> * Correct Answer: D
+> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+
+* **Question: 37**
+> * Original Answer: A
+> * Correct Answer: D
+> * Why I Got It Wrong: The values I selected were flipped and if it was run using the values I selected the code segment would've worked.
+
+* **Question: 41**
+> * Original Answer: A
+> * Correct Answer: C
+> * Why I Got It Wrong: If only one link were removed, for instance from F to E, a message from computer E could travel through other computers and connect with E through G or A.
+
+*** Question: 42**
+> * Original Answer: A
+> * Correct Answer: D
+> * Why I Got It Wrong: I need to study the binary system and the values of the binary number system more thoroughly.
+
+*** Question: 45**
+> * Original Answer: A
+> * Correct Answer: C
+> * Why I Got It Wrong: This question can be answered by filtering the data for the date and the sports category. The cost of a given product is not tracked by the described search engine.
+
+*** Question: 47**
+> * Original Answer: A D
+> * Correct Answer: A C
+> * Why I Got It Wrong:  If devices E and F were to fail, devices A and C can still communicate. One possible path is A-D-C.
+
+*** Question: 48**
+> * Original Answer: B
+> * Correct Answer: A
+> * Why I Got It Wrong: Removing three connections could prevent devices A and F from communicating, but it can also be done by removing only two connections.
+
+
+## Quiz2 Score: 35/50
+
+## Quiz2 Test Corrections: 15 Questions
+
+*** Question: 2**
+> * Original Answer: A
+> * Correct Answer: B
+> * Why I Got It Wrong: While linking a social media account to a phone number may improve the security of the site, it does not improve access to devices and the Internet.
+
+*** Question: 7**
+> * Original Answer: A
+> * Correct Answer: B
+> * Why I Got It Wrong: The ability to keep data secure is not a primary function of a compression algorithm.
+
+*** Question: 9**
+> * Original Answer: B
+> * Correct Answer: A
+> * Why I Got It Wrong:  If the same formula can be applied to every data element, then the computations can be done in parallel on multiple processors.
+
+*** Question: 12**
+> * Original Answer: C
+> * Correct Answer: D
+> * Why I Got It Wrong: Compressing a user’s pictures only affects data on the user’s device. It does not rely on information contributed by a large number of users.
+
+*** Question: 14**
+> * Original Answer: A
+> * Correct Answer: D
+> * Why I Got It Wrong: The two line graphs are roughly the same shape, indicating that the average amount of data stored per user remained about the same across all eight years.
+
+*** Question: 18**
+> * Original Answer: C
+> * Correct Answer: D
+> * Why I Got It Wrong: After initializing result to 2, the code segment multiplies result by 5 a total of three times rather than multiplying result by 3 a total of five times. This yields the result 2(53).
+
+*** Question: 19**
+> * Original Answer: D
+> * Correct Answer: C
+> * Why I Got It Wrong: When x is not negative, y is assigned the value false and the display statement is never executed.
+
+*** Question: 24**
+> * Original Answer: A
+> * Correct Answer: C
+> * Why I Got It Wrong: Redundancy on the Internet allows packets to be transmitted along multiple paths, but does not reduce the number of packets needed to transmit a particular message.
+
+*** Question: 30**
+> * Original Answer: A`
+> * Correct Answer: C`
+> * Why I Got It Wrong: The decimal equivalent of this triplet is (37, 0, 130).`
+
+*** Question: 31**
+> * Original Answer: D
+> * Correct Answer: A
+> * Why I Got It Wrong: The binary RGB triplet for vivid yellow is (11111111, 11111111, 00001110).
+
+*** Question: 34**
+> * Original Answer: B
+> * Correct Answer: A
+> * Why I Got It Wrong: This expression will not count books that have exactly one copy in stock because it uses the expression (1 < num) instead of (1 ≤ num).
+
+*** Question: 35**
+> * Original Answer: D
+> * Correct Answer: C
+> * Why I Got It Wrong: While fractions are sometimes represented by decimal approximations that are subject to rounding errors, integers are not.
+
+*** Question: 42**
+> *Original Answer: A B
+> * Correct Answer: B C
+> * Why I Got It Wrong: Redundant routing provides fault tolerance, which enables a cloud storage site to continue to operate if some part of a network fails.
+
+*** Question: 43**
+> * Original Answer: B
+> * Correct Answer: A
+> * Why I Got It Wrong: The given code segment causes the robot to end in the lower-right corner of the grid, facing toward the top of the grid. This code segment causes the robot to rotate left before moving forward, causing the robot to follow a different path. The robot ends in the upper-right corner of the grid, facing toward the top of the grid.
+
+*** Question: 45**
+> * Original Answer: C
+> * Correct Answer: A
+> * Why I Got It Wrong: The desired information cannot be determined with these two spreadsheets because students with grade point averages of 3.5 or less cannot be identified.
+
+
 # TPT & Test Prep
+
+## Tri 3 Big Idea 5.5: Legal and Ethical Concerns
+### 5.5 Notes
+* There were many Lawyers making a profession on Patents and how they can be impacted on General Public Licensing (GPL)
+* Qualcomm makes its money on patents
+* Patents are an exclusive right granted for an invention
+* Open Source by nature, specifically GPL, says any derivative work is free and code should be shared
+* Qualcomm wants all derivative work to require a royalty payment payment, also anyone who uses the idea/patent pays royalty
+* "Black Duck® software composition analysis (SCA) helps teams manage the security, quality, and license compliance risks that come from the use of open source and third-party code in applications and containers."
+* Important to know the type of software license you are copying, it could impact billions of dollars in business
+
+### 5.5 Activity
+1. When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+> The tech-talk and the video covers some of the license types that are available to pick for the team/individual project. A license is a
+A unique string, typically non-guessable, that allows a user to activate the unique rights they have purchased for a given application or service and is often used interchangeably with Serial Number. In GitHub, it permits users to do anything with a given project as long as they credit the developer and don't hold him or her liable for the project's use.
+
+2. Make a license for your personal and Team project. Document license you picked and why.
+> For our team project, we chose the creative commons license. This license is the best fit for our personal and team projects due to how it allows the creator to retain copyright whilst allowing others to copy and distribute and make use of their work non-commercially. The Creative Commons license also ensures creators get the recognition and credit for the work they produce and share.
+
+<p align="center">
+  <img 
+    width="600"
+    height="200"
+    src="https://user-images.githubusercontent.com/89220356/164073749-91eea906-7459-4430-9747-e39e4e16e902.png">
+</p>
+
+## Tri 3 Big Idea 5.6: Safe Computing
+
+### 5.6 Notes
+PII = Personal Identifiable Information
+* LinkedIn is a place where we want to be know for our accomplishments (the person that looks at your LinkedIn will, most likely, look at things like Instagram or Facebook)
+* Things that will be known by everyone: Name, Email (suggest a junk email), Picture, High School attended, College Attended, Properties you own, State-City of residence, all State-City of previous residence, Credit Report
+* Things that you should strive to keep absolutely secret: Credentials for Access, Two-Factor Authentication on Financial accounts, Social Security Number, Tax records
+* Phishing is where unknown sources try to entice you into a response, like click here and receive $500. Often such systems impersonate someone like Amazon asking for login information.
+* Symmetric encryption is a type of encryption where only one key (a secret key) is used to both encrypt and decrypt electronic information.
+* Asymmetric cryptography, also known as public-key cryptography, is a process that uses a pair of related keys -- one public key and one private key -- to encrypt and decrypt a message and protect it from unauthorized access or use.
+
+### 5.6 Activity
+1. Describe PII you have seen on project in CompSci Principles.
+> In CSP, the CRUD that needs to be entered was an example of the PII stuff I have seen. Since we are entering information such as email and phone numbers, this is information that should be protected.
+2. What are your feelings about PII and your exposure?
+> In the age of technology, it is important that individuals stay vigilant on what they post online. Whether it be comments on social media or actual posts, all of this information can be traced back to you.
+3. Describe good and bad passwords? What is another step that is used to assist in authentication.
+> Good passwords are made up of a few key components including randomness, complexity and length. If your password is predictable, simple and or/short, chances are it is less secure. A combination of random letters, numbers and characters will be less likely to be hacked into.
+4. Try to describe Symmetric and Asymmetric encryption.
+> Symmetric encryption uses the same key to encrypt and decrypt data making it very easy to use. Asymmetric encryption uses a public key to encrypt data and a private key to decrypt information.
+5. Provide and example of encryption we used in deployment.
+> During deployment, something that we used was certbot. This was something that allowed us to ensure that out website was secure.
+6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+> I don't think there are an phishing schemes I have learned about in a hard way, however, I have definitely encountered it. I will often get emails or texts claiming to be from my bank and asking to enter in my information. Things like these are fake and are just a way to gain access to personal information.
 
 ## Tri 3 Big Idea 5.3: Computing Bias
 ### 5.3 Notes

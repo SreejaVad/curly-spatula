@@ -2,15 +2,17 @@
 
 # Code
 
-## Python Menu Project
-> ### [Click Here To View The Code On Replit](https://replit.com/@SreejaVad/Python-Menu-Project?v=1)
-![img_2.png](static/img_2.png)
+## Week 0: Python Menu Project
+> ### [Click Here To View The Code On Replit](https://replit.com/@SreejaVad/curly-spatula-2#docs/hacks/week0/menu.py)
 
 
-## Data Structures InfoDB lists, InfoDB loops, Fibonacci Project
-> ### [Click Here To View The Code On Replit](https://replit.com/@SreejaVad/Data-Structures-InfoDB-Lists-InfoDB-Loops-Fibonacci-1)
-![img_3.png](static/img_3.png)
-![img_4.png](static/img_4.png)
-![img_5.png](static/img_5.png)
+## Week 1: Data Structures InfoDB lists, InfoDB loops, Fibonacci Project
+> ### Fibonacci: [Click Here To View The Code On Replit](https://replit.com/@SreejaVad/curly-spatula-2#docs/hacks/week1/fibonacci.py)
+> ### List: [Click Here To View The Code On Replit](https://replit.com/@SreejaVad/curly-spatula-2#docs/hacks/week1/list.py)
+
+## Week 2: Python Classes
+> ### [Click Here To View The Code On Replit](https://replit.com/@SreejaVad/curly-spatula-2#docs/hacks/week2/menu2.py)
+
+
 
 

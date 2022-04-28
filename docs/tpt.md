@@ -9,6 +9,8 @@
 <b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.1:-Beneficial-and-Harmful-Effects-of-Computing">5.1 Notes + Activity</a></b>
 
 <b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.2:-Digital-Divide">5.2 Notes + Activity</a></b>
+</td>
+</tr>
 
 <tr>
 <td>Week 1</td>

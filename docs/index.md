@@ -32,20 +32,16 @@
 <td>Week 3: Final</td>
 <td>  
 <a href="https://github.com/kamryns/curly-cupboard/issues/31" target="_blank">Review Ticket, Week 3</a>
-</tr>
 <tr>
 <td>Week 4: Create Task</td>
 <td>  
 <a href="https://github.com/SreejaVad/curly-spatula/issues/2">Review Ticket, Week 4</a>
-</tr>
 <tr>
 <td>Week 5: Proctored MCQ Week1</td>
 <td>  
 <a href="https://github.com/SreejaVad/curly-spatula/issues/3" target="_blank">Review Ticket, Proctored MCQ Week1</a>
-<br><a href="https://github.com/SreejaVad/curly-spatula/issues/1" target="_blank">Study Plan+Reflection</a></br>
-</tr>
+<br><a href="https://github.com/SreejaVad/curly-spatula/issues/1" target="_blank">Study Plan+Reflection</a>
 
 </td>
 </tr>
 
-</table>

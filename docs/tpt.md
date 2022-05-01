@@ -213,7 +213,7 @@ A unique string, typically non-guessable, that allows a user to activate the uni
 
 <p align="center">
   <img 
-    width="600"
+    TABLE_WIDTH="600"
     height="200"
     src="https://user-images.githubusercontent.com/89220356/164073749-91eea906-7459-4430-9747-e39e4e16e902.png">
 </p>

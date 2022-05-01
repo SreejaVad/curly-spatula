@@ -1,5 +1,6 @@
 # Implementation of classic arcade game Pong
 
+# noinspection PyInterpreter
 import simplegui
 import random
 

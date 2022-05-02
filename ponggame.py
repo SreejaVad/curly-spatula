@@ -52,14 +52,16 @@ def update(canvas):
     global player1_score, player2_score, paddle1_position, paddle2_position, ball_position, ball_velocity
 
     # draw center line and borders
-    canvas.draw_line([TABLE_WIDTH / 2, 0],[TABLE_WIDTH / 2, TABLE_HEIGHT], 1, "White")
-    canvas.draw_line([PADDLE_WIDTH, 0],[PADDLE_WIDTH, TABLE_HEIGHT], 1, "White")
-    canvas.draw_line([TABLE_WIDTH - PADDLE_WIDTH, 0],[TABLE_WIDTH - PADDLE_WIDTH, TABLE_HEIGHT], 1, "White")
-    canvas.draw_line([0, 0],[PADDLE_WIDTH, 0], 1, "Red")
+    canvas.draw_line([TABLE_WIDTH / 2, 0],[TABLE_WIDTH / 2, TABLE_HEIGHT], 1, "Blue")
+    canvas.draw_line([PADDLE_WIDTH, 0],[PADDLE_WIDTH, TABLE_HEIGHT], 1, "Blue")
+    canvas.draw_line([TABLE_WIDTH - PADDLE_WIDTH, 0],[TABLE_WIDTH - PADDLE_WIDTH, TABLE_HEIGHT], 1, "Blue")
+    canvas.draw_line([0, 0],[PADDLE_WIDTH, 0], 1, "Yellow")
 
     # Use draw_polygon method (instead of draw_line) to draw paddles
-    canvas.draw_polygon([paddle1_position, [0, paddle1_position[1]], [0, paddle1_position[1] + PADDLE_HEIGHT],[PADDLE_WIDTH, paddle1_position[1] + PADDLE_HEIGHT] ], 1, "Red", "Red")
-    canvas.draw_polygon([paddle2_position, [TABLE_WIDTH, paddle2_position[1]], [TABLE_WIDTH, paddle2_position[1] + PADDLE_HEIGHT],[TABLE_WIDTH - PADDLE_WIDTH, paddle2_position[1] + PADDLE_HEIGHT] ], 1, "Red", "Red")
+    canvas.draw_polygon([paddle1_position, [0, paddle1_position[1]], [0, paddle1_position[1] + PADDLE_HEIGHT],
+    [PADDLE_WIDTH, paddle1_position[1] + PADDLE_HEIGHT] ], 1, "Yellow", "Yellow")
+    canvas.draw_polygon([paddle2_position, [TABLE_WIDTH, paddle2_position[1]], [TABLE_WIDTH,
+    paddle2_position[1] + PADDLE_HEIGHT],[TABLE_WIDTH - PADDLE_WIDTH, paddle2_position[1] + PADDLE_HEIGHT] ], 1, "Yellow", "Yellow")
 
     # update ball position
     ball_position[0] += 0.05 * ball_velocity[0]
@@ -90,7 +92,7 @@ def update(canvas):
 
 
     # create the ball and corresponding points text
-    canvas.draw_circle(ball_position, BALL_RADIUS, 2, "Red", "White")
+    canvas.draw_circle(ball_position, BALL_RADIUS, 2, "Purple", "Grey")
     canvas.draw_text(str(player1_score), (150, 40), 30, "White", "serif")
     canvas.draw_text(str(player2_score), (450, 40), 30, "White", "serif")
 
@@ -170,14 +172,16 @@ def button_handler():
 import simplegui
 
 game_frame = simplegui.create_frame("Ping-Pong", TABLE_WIDTH, TABLE_HEIGHT)
-game_frame.set_draw_handler(update)
 game_frame.set_keydown_handler(keydown)
 game_frame.set_keyup_handler(keyup)
 button = game_frame.add_button("Restart", button_handler, 70)
 
+# Set the draw handler called "update" which is invoked 60 times per second.
+game_frame.set_draw_handler(update)
 
 # start the UI using frame that was created,
 game_frame.start()
+
 # Start the game with initialization abd let draw handler update the game objects after initialization
 start_game()
 

@@ -1,16 +1,16 @@
 # Ping Pong Game
 
-import simplegui
+# import GUI module as a framework
 import random
 
 # Global Variables: Position and Velocity
 TABLE_WIDTH = 800
 TABLE_HEIGHT = 600
-BALL_RADIUS = 20
+BALL_RADIUS = 25
 PADDLE_WIDTH = 8
 PADDLE_HEIGHT = 80
-HALF_PADDLE_WIDTH = PADDLE_WIDTH / 2
-HALF_PADDLE_HEIGHT = PADDLE_HEIGHT / 2
+HALF_PADDLE_WIDTH = PADDLE_WIDTH / 3
+HALF_PADDLE_HEIGHT = PADDLE_HEIGHT / 3
 ball_position = [TABLE_WIDTH/2, TABLE_HEIGHT/2]
 ball_velocity = [1, 1]
 paddle1_position = [PADDLE_WIDTH, 0]
@@ -21,8 +21,8 @@ player1_score = 0
 player2_score = 0
 
 # Init code to spawn a ball and updates ball's position & velocity vector.
-# if right is True, the ball's velocity is upper right, otherwise upper left
-def ball_init(right):
+# direction makes the ball's velocity go right or left
+def ball_init(direction):
     global ball_position, ball_velocity # x,y values stored as lists
 
     ball_position = [TABLE_WIDTH/2, TABLE_HEIGHT/2]
@@ -33,7 +33,7 @@ def ball_init(right):
     ball_velocity[0] = ball_velocity[0] + random.randrange(120, 240)
     ball_velocity[1] = ball_velocity[0] + random.randrange(60, 180)
 
-    if right:
+    if direction:
         ball_velocity[0] = ball_velocity[0]
         ball_velocity[1] = - ball_velocity[1]
     else:
@@ -99,26 +99,7 @@ def update(canvas):
 def keydown(key):
     global paddle1_velocity, paddle2_velocity
     step = 20
-    if str(chr(key)).upper() == "W":
-        if  paddle1_position[1] > 0:
-            paddle1_velocity[1] = step
-            paddle1_position[1] -=  paddle1_velocity[1]
-        else:
-            paddle1_position[1] = 0
 
-    if str(chr(key)).upper() == "S":
-        if (paddle1_position[1] + PADDLE_HEIGHT) < TABLE_HEIGHT:
-            paddle1_velocity[1] = step
-            paddle1_position[1] += paddle1_velocity[1]
-        else:
-            paddle1_position[1] =  TABLE_HEIGHT - PADDLE_HEIGHT
-
-    if key==simplegui.KEY_MAP["up"]:
-        if  paddle2_position[1] > 0:
-            paddle2_velocity[1] = step
-            paddle2_position[1] -=  paddle2_velocity[1]
-        else:
-            paddle2_position[1] = 0
 
     if key==simplegui.KEY_MAP["down"]:
         if (paddle2_position[1] + PADDLE_HEIGHT) < TABLE_HEIGHT:
@@ -127,6 +108,26 @@ def keydown(key):
         else:
             paddle2_position[1] =  TABLE_HEIGHT - PADDLE_HEIGHT
 
+    if key==simplegui.KEY_MAP["up"]:
+        if  paddle2_position[1] > 0:
+            paddle2_velocity[1] = step
+            paddle2_position[1] -=  paddle2_velocity[1]
+        else:
+            paddle2_position[1] = 0
+
+    if str(chr(key)).upper() == "S":
+        if (paddle1_position[1] + PADDLE_HEIGHT) < TABLE_HEIGHT:
+            paddle1_velocity[1] = step
+            paddle1_position[1] += paddle1_velocity[1]
+        else:
+            paddle1_position[1] =  TABLE_HEIGHT - PADDLE_HEIGHT
+
+    if str(chr(key)).upper() == "W":
+        if  paddle1_position[1] > 0:
+            paddle1_velocity[1] = step
+            paddle1_position[1] -=  paddle1_velocity[1]
+        else:
+            paddle1_position[1] = 0
 
 
 def keyup(key):
@@ -163,15 +164,20 @@ def keyup(key):
 def button_handler():
     start_game()
 
-# create game frame
+# Frames are outline of user interface.
+# We are going to use simplegui module to create a frame and setting up draw handler and key event handling.
+# Begin creating the game frame in order to actually use it
+import simplegui
+
 game_frame = simplegui.create_frame("Ping-Pong", TABLE_WIDTH, TABLE_HEIGHT)
 game_frame.set_draw_handler(update)
 game_frame.set_keydown_handler(keydown)
 game_frame.set_keyup_handler(keyup)
-button2 = game_frame.add_button("Restart", button_handler, 70)
+button = game_frame.add_button("Restart", button_handler, 70)
 
 
-# start game after creating game frame window.
+# start the UI using frame that was created,
 game_frame.start()
+# Start the game with initialization abd let draw handler update the game objects after initialization
 start_game()
 

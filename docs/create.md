@@ -69,13 +69,13 @@ The argument value is "False", both the horizontal (x) & vertical velocity vecto
 
 > Condition(s) tested by the first call:
 
-if direction:
+> if direction:
 ball_velocity[0] = ball_velocity[0]
 ball_velocity[1] = - ball_velocity[1]
 
 > Condition(s) tested by the second call:
 
-else:
+> else:
 ball_velocity[0] = - ball_velocity[0]
 ball_velocity[1] = - ball_velocity[1]
 

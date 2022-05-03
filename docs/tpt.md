@@ -40,9 +40,9 @@
 
 # Proctored MCQ Week2 :  Quiz3 Corrections
 
-## Quiz1 Score: 28/50
+## Quiz3 Score: 28/50
 
-## Quiz1 Test Corrections: 22 Questions
+## Quiz3 Test Corrections: 22 Questions
 
 * **Question: 2**
 > * Original Answer: A

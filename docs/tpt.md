@@ -38,6 +38,147 @@
 
 </table>
 
+# Proctored MCQ Week2 :  Quiz3 Corrections
+
+## Quiz1 Score: 28/50
+
+## Quiz1 Test Corrections: 22 Questions
+
+* **Question: 2**
+> * Original Answer: A
+> * Correct Answer: D
+> * Why I Got It Wrong: While some solutions benefit from being validated by a human, not all problems can be solved with an algorithm.
+
+* **Question: 3**
+> * Original Answer: C
+> * Correct Answer: B
+> * Why I Got It Wrong: Algorithm I does not work correctly. In algorithm I, if two people are tied for the earliest birthday, they both sit down when they are eventually paired.
+
+* **Question: 6**
+> * Original Answer: A C
+> * Correct Answer: A D
+> * Why I Got It Wrong:  This algorithm displays the numbers 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, and 19. The number 20 is not displayed since the algorithm terminates immediately after x is assigned the value 20.
+
+* **Question: 14**
+> * Original Answer: C
+> * Correct Answer: D
+> * Why I Got It Wrong: The World Wide Web is not a protocol, and the Internet is not a data stream. The Internet is an interconnected network of networks, and the World Wide Web is an information system that is accessed via the Internet.
+
+* **Question: 17**
+> * Original Answer: B C  
+> * Correct Answer: C D
+> * Why I Got It Wrong: This option is incorrect. Since "Ben" is not in nameList, the procedure will display 0, indicating that the procedure worked as intended.
+
+* **Question: 18**
+> * Original Answer: A
+> * Correct Answer: C
+> * Why I Got It Wrong:Incorrect. The procedure traverses this list and never encounters a positive value. The procedure then returns false as intended.
+
+* **Question: 19**
+> * Original Answer: D
+> * Correct Answer: A
+> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+
+* **Question: 22**
+> * Original Answer:D
+> * Correct Answer: B
+> * Why I Got It Wrong: This option is incorrect. If the fraction 2 divided by 3 were to be represented as an integer, it would be rounded or truncated to an integer value.
+
+* **Question: 29**
+> * Original Answer: B
+> * Correct Answer: D
+> * Why I Got It Wrong: This option is incorrect. In the simulation, the variable flip_counter represents the number of times a coin was flipped. When flip_counter equals 1, only one coin has been flipped. This information does not lead to knowledge about the result of the simulation.
+
+* ** Question: 30**
+> * Original Answer: A
+> * Correct Answer: D
+> * Why I Got It Wrong:  The Internet is a network of interconnected networks, but the World Wide Web is an information system that is accessed via the Internet.
+
+* ** Question: 32**
+> * Original Answer: C
+> * Correct Answer: B
+> * Why I Got It Wrong: This option is incorrect. The operation 10 plus 7 causes an overflow error, but 12 plus 3 does not produce a result large enough to cause an overflow error.
+
+* ** Question: 33**
+> * Original Answer: B
+> * Correct Answer: A
+> * Why I Got It Wrong: The selections of a local radio station can reflect existing human biases. Making recommendations using only this data may lead to bias in the application.
+
+* ** Question: 34**
+> * Original Answer: C
+> * Correct Answer: B
+> * Why I Got It Wrong: This algorithm has linear efficiency, so it runs in a reasonable amount of time. Therefore, a heuristic is not appropriate.
+
+*** Question: 35**
+> * Original Answer: C
+> * Correct Answer: D
+> * Why I Got It Wrong: The user’s download history can be used to recommend similar artists based on aggregated data from many users.
+
+* ** Question: 36**
+> * Original Answer: C
+> * Correct Answer: B D
+> * Why I Got It Wrong: Removing three connections could prevent devices A and F from communicating, but it can also be done by removing only two connections.
+
+* ** Question: 37**
+> * Original Answer: B
+> * Correct Answer: C
+> * Why I Got It Wrong: This system uses wireless technology to find a lost pet, rather than the contributions of many individuals.
+
+* ** Question: 38**
+> * Original Answer: C
+> * Correct Answer: B
+> * Why I Got It Wrong: Publishing an e-book with a no-rights-reserved Creative Commons license enables people to freely distribute it.
+
+* ** Question: 39**
+> * Original Answer: A
+> * Correct Answer: B
+> * Why I Got It Wrong: This option is incorrect. The approximation 30.6 million would be a better estimate for year 11.
+
+* ** Question: 41**
+> * Original Answer: 
+> * Correct Answer: A
+> * Why I Got It Wrong: This option is incorrect. The recipient’s public key cannot be used to decrypt the message.
+
+* ** Question: 42**
+> * Original Answer: 
+> * Correct Answer: C
+> * Why I Got It Wrong:  Using 6 bits will only allow for up to 64 sequences because 2^6=64. Using 7 bits will allow for up to 128 sequences because 2^7=128. Therefore, a minimum of 7 bits are needed.
+
+* ** Question: 43**
+> * Original Answer: 
+> * Correct Answer: C
+> * Why I Got It Wrong: Users with a premium account do not receive advertisements.
+
+* ** Question: 44**
+> * Original Answer: 
+> * Correct Answer: D
+> * Why I Got It Wrong: This option is correct. The procedures square and cube are each used to determine a power of n. A generalization of this procedure
+    is Power, open parenthesis, n comma m, close parenthesis, which calculates n raised to the mpower.
+
+* ** Question: 45**
+> * Original Answer: 
+> * Correct Answer: B
+> * Why I Got It Wrong: Infrequently used files are removed from user devices and stored on a Web server. If a user has no Internet connection, the user will be unable to access these files.
+
+* ** Question: 46**
+> * Original Answer: 
+> * Correct Answer: B
+> * Why I Got It Wrong:  This is an example of symmetric encryption because the secret key is used for both encryption and decryption of messages.
+
+* ** Question: 47**
+> * Original Answer: 
+> * Correct Answer: A D
+> * Why I Got It Wrong: This code segment sets bonus to 0 when score < 50, sets bonus to score * 10 when score > 100, and sets bonus to score when 100 ≥ score ≥ 50. This code segment sets bonus to score * 10 when score > 100, sets bonus to score when 100 ≥ score ≥ 50, and sets bonus to 0 when score < 50. 
+
+* ** Question: 48**
+> * Original Answer: 
+> * Correct Answer: B
+> * Why I Got It Wrong: It is not possible to use byte pair encoding in the string Open quotation, LEVEL, underscore, UP, close quotationbecause no pair of characters appears in the string more than once.
+
+* ** Question: 49**
+> * Original Answer: 
+> * Correct Answer: B
+> * Why I Got It Wrong: A user can see a map of other people in the area who may not be on the user’s contact list.
 
 # Proctored MCQ Week1 : Quiz1, Quiz2 Test Corrections
 

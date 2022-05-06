@@ -35,61 +35,49 @@
     width="550"
     height=""
     src="https://user-images.githubusercontent.com/89220356/166186078-b2ee12a3-450a-4441-a2ee-d299d44ca7da.png">
+</p>
 <p align="Left">
   <img 
     width="550"
     height=""
     src="https://user-images.githubusercontent.com/89220356/166186140-f5856cbe-0a17-475b-b473-4ee5c665fc5d.png">
+</p>
 <p align="Left">
   <img 
     width="550"
     height=""
     src="https://user-images.githubusercontent.com/89220356/166186167-99c159fb-0523-4e5b-a7c9-3c93e486e777.png">
-<br>
+</p>
+
 3c: (ii)
 <p align="Left">
   <img 
     width="550"
     height=""
     src="https://user-images.githubusercontent.com/89220356/166186961-b419aadf-65bd-42c6-81b3-1702e34dbe81.png">
-<br>
+</p>
 
 3c : (iii) (iv) (250 words)
 > I am using the simplegui module for User Interface. This module offers a frame that is nothing but a window. We can register event handlers such as draw hander (in our case, "update") who is responsible for drawing on the canvas. After the frame is started, the registered draw handler is invoked about 60 times per second and updates the canvas as per the code in the draw handler (update) function. Code in this function draws the table, updates the ball position, and checks whether the ball is touching the paddle or not. If not touching the paddle, the opponent scores a point. Negates the "y" velocity vector when the ball touches either the top or bottom borders of the table. The score is updated on the screen. The " update" function draws ping-pong table borders, middle line, and left and right paddles. The "ball_init" function sets the ball position at the middle of the board and sets velocity vectors to some random values. The update function moves the ball position from its current position by adding velocity vectors. Also checks whether the ball is touching either the top or the bottom border of the table. If touches, the ball's vertical vector is reversed so that ball bounces back. If the ball touches the paddle, the horizontal vector is reversed so that the ball bounces in the horizontal direction. If the ball doesn't touch the paddle, the ball starts in the middle of the table.
-
-<br>
 
 3d: (i) (127 Words)
 #### First Call: ball_init(True)
 > This function initializes the ball position to the middle of the ping-pong table. The velocity vectors list values are set to some random values. The argument value is "True" and the vertical velocity vector (y)value is negated.
 
-<br>
-
-
 Second Call: ball_init(False)
 > The argument value is "False", both the horizontal (x) & vertical velocity vector (y) values are negated.
 
-<br>
-
-
 3d: (ii)
-
-<br>
-
 
 Condition(s) tested by the first call:
 > if direction:
 ball_velocity[0] = ball_velocity[0]
 ball_velocity[1] = - ball_velocity[1]
 
-<br>
-
 Condition(s) tested by the second call:
 > else:
 ball_velocity[0] = - ball_velocity[0]
 ball_velocity[1] = - ball_velocity[1]
-
-<br>
 
 3d: (iii)
 > Result of the first call: The direction value "True" is tested here and the ball initially starts going to the top right of the table as the velocity vertical vector is negated.

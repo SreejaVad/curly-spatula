@@ -1,7 +1,6 @@
 {% include navigation.html %}
 
 # TPT Work In Wiki
-
 <table>
 <tr>
 <td>Week 0</td>
@@ -32,11 +31,75 @@
 <td>  
 <b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Proctored-MCQ-Week1-:-Quiz1,-Quiz2-Test-Corrections">Quiz1, Quiz2 Test Corrections</a></b>
 <tr>
-
 </td>
 </tr>
-
 </table>
+
+# Proctored MCQ Week3 :  Quiz5 Corrections
+
+## Quiz3 Score: 38/50
+
+## Quiz3 Test Corrections: 12 Questions
+
+* **Question: 3**
+> * Original Answer: A
+> * Correct Answer: D
+> * Why I Got It Wrong: While some solutions benefit from being validated by a human, not all problems can be solved with an algorithm.
+
+* **Question: 9**
+> * Original Answer: C
+> * Correct Answer: B
+> * Why I Got It Wrong: Algorithm I does not work correctly. In algorithm I, if two people are tied for the earliest birthday, they both sit down when they are eventually paired.
+
+* **Question: 13**
+> * Original Answer: A C
+> * Correct Answer: A D
+> * Why I Got It Wrong:  This algorithm displays the numbers 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, and 19. The number 20 is not displayed since the algorithm terminates immediately after x is assigned the value 20.
+
+* **Question: 15**
+> * Original Answer: C
+> * Correct Answer: D
+> * Why I Got It Wrong: The World Wide Web is not a protocol, and the Internet is not a data stream. The Internet is an interconnected network of networks, and the World Wide Web is an information system that is accessed via the Internet.
+
+* **Question: 16**
+> * Original Answer: B C
+> * Correct Answer: C D
+> * Why I Got It Wrong: This option is incorrect. Since "Ben" is not in nameList, the procedure will display 0, indicating that the procedure worked as intended.
+
+* **Question: 28**
+> * Original Answer: A
+> * Correct Answer: C
+> * Why I Got It Wrong:Incorrect. The procedure traverses this list and never encounters a positive value. The procedure then returns false as intended.
+
+* **Question: 30**
+> * Original Answer: D
+> * Correct Answer: A
+> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+
+* **Question: 32**
+> * Original Answer: D
+> * Correct Answer: A
+> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+
+* **Question: 35**
+> * Original Answer: D
+> * Correct Answer: A
+> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+
+* **Question: 42**
+> * Original Answer: D
+> * Correct Answer: A
+> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+
+* **Question: 44**
+> * Original Answer: D
+> * Correct Answer: A
+> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+
+* **Question: 45**
+> * Original Answer: D
+> * Correct Answer: A
+> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
 
 # Proctored MCQ Week2 :  Quiz3 Corrections
 

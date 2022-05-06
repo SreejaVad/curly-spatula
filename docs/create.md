@@ -2,7 +2,7 @@
 
 # Create Task
 #### [Click Here for the Video](https://youtu.be/AnA6Bw60aAE)
-#### [Click Here to Visit My Create Task Wiki](https://github.com/SreejaVad/curly-spatula/wiki/Create-Task-Write-Up)
+#### [Click Here to Visit My Create Task Written Response Wiki](https://github.com/SreejaVad/curly-spatula/wiki/Create-Task-Write-Up)
 #### [Click Here to View Running Code On CodeSkulptor](https://py2.codeskulptor.org/#user49_RqH3NC6Ooe_0.py)
 #### [Click Here to View Raw Code on Github](https://github.com/SreejaVad/curly-spatula/blob/main/ponggame.py)
 

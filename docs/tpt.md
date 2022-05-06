@@ -6,64 +6,64 @@
 ## Quiz3 Test Corrections: 12 Questions
 
 * **Question: 3**
-> * Original Answer: A
-> * Correct Answer: D
-> * Why I Got It Wrong: While some solutions benefit from being validated by a human, not all problems can be solved with an algorithm.
+> * Original Answer: A B
+> * Correct Answer: B D
+> * Why I Got It Wrong: For these values, the procedure repeatedly adds 2 to result five times, resulting in the intended product 10.
 
 * **Question: 9**
-> * Original Answer: C
-> * Correct Answer: B
+> * Original Answer: A
+> * Correct Answer: D
 > * Why I Got It Wrong: Algorithm I does not work correctly. In algorithm I, if two people are tied for the earliest birthday, they both sit down when they are eventually paired.
 
 * **Question: 13**
-> * Original Answer: A C
-> * Correct Answer: A D
-> * Why I Got It Wrong:  This algorithm displays the numbers 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, and 19. The number 20 is not displayed since the algorithm terminates immediately after x is assigned the value 20.
+> * Original Answer: B
+> * Correct Answer: C
+> * Why I Got It Wrong:  Program I also correctly moves the robot to the gray square by repeatedly moving the robot forward, rotating left, moving forward, and rotating right.
 
 * **Question: 15**
-> * Original Answer: C
-> * Correct Answer: D
-> * Why I Got It Wrong: The World Wide Web is not a protocol, and the Internet is not a data stream. The Internet is an interconnected network of networks, and the World Wide Web is an information system that is accessed via the Internet.
-
-* **Question: 16**
-> * Original Answer: B C
-> * Correct Answer: C D
-> * Why I Got It Wrong: This option is incorrect. Since "Ben" is not in nameList, the procedure will display 0, indicating that the procedure worked as intended.
-
-* **Question: 28**
 > * Original Answer: A
 > * Correct Answer: C
-> * Why I Got It Wrong:Incorrect. The procedure traverses this list and never encounters a positive value. The procedure then returns false as intended.
+> * Why I Got It Wrong: The programs display different values.
+
+* **Question: 16**
+> * Original Answer: C
+> * Correct Answer: A
+> * Why I Got It Wrong: While the two programs initialize i to different values, the same values are printed inside the loop because program A prints i and then increments it and program B increments i and then prints it.
+
+* **Question: 28**
+> * Original Answer: B
+> * Correct Answer: D
+> * Why I Got It Wrong: The variable val1 is assigned false because NOT (category = "new") is false and age ≥ 65 is false.
 
 * **Question: 30**
-> * Original Answer: D
-> * Correct Answer: A
-> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+> * Original Answer: B
+> * Correct Answer: D
+> * Why I Got It Wrong: The loop begins at the end of the list and moves to the start of the list, so index should be decremented, not incremented.
 
 * **Question: 32**
-> * Original Answer: D
+> * Original Answer: B
 > * Correct Answer: A
-> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+> * Why I Got It Wrong: Running processes P and R on one processor will take a total of 50 seconds. Running processes Q and S on the other processor will take a total of 25 seconds. With the processors running in parallel, this solution will take 50 seconds; the optimal solution takes only 40 seconds.
 
 * **Question: 35**
-> * Original Answer: D
-> * Correct Answer: A
-> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+> * Original Answer: A
+> Correct Answer: C
+> * Why I Got It Wrong: There are many possible paths between devices A and D, including A-B-D, A-C-D, A-C-F-D, and A-B-E-F-D. 
 
 * **Question: 42**
-> * Original Answer: D
+> * Original Answer: C
 > * Correct Answer: A
-> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+> * Why I Got It Wrong: While this solution may reduce disrespectful communication between players, it does not make use of input from a large number of users.
 
 * **Question: 44**
-> * Original Answer: D
+> * Original Answer: C
 > * Correct Answer: A
-> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+> * Why I Got It Wrong: Tricking a user into providing personal information is an example of a phishing attack. While this type of attack can be used to obtain personal information, it does not allow unauthorized individuals to intercept information transmitted on a network.
 
 * **Question: 45**
-> * Original Answer: D
-> * Correct Answer: A
-> * Why I Got It Wrong:The database does not store information about the date of a particular sale. Because the database stores information on item identification numbers and quantities available, the retailer can search for all item identification numbers that have a quantity of 0.
+> * Original Answer: B
+> * Correct Answer: C
+> * Why I Got It Wrong: Code segment I also displays the correct average.
 
 # Proctored MCQ Week2 :  Quiz3 Corrections
 

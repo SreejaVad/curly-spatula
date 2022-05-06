@@ -26,12 +26,12 @@
 <b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.5:-Legal-and-Ethical-Concerns">5.5 Notes + Activity</a></b>
 
 <b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.6:-Safe-Computing">5.6 Notes + Activity</a></b>
-</td>
-</tr>
+<tr>
 
 <td>Week 6</td>
 <td>  
 <b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Proctored-MCQ-Week1-:-Quiz1,-Quiz2-Test-Corrections">Quiz1, Quiz2 Test Corrections</a></b>
+<tr>
 
 </td>
 </tr>

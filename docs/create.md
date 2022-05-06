@@ -53,6 +53,7 @@
     height=""
     src="https://user-images.githubusercontent.com/89220356/166186961-b419aadf-65bd-42c6-81b3-1702e34dbe81.png">
 <br>
+
 3c : (iii) (iv) (250 words)
 > I am using the simplegui module for User Interface. This module offers a frame that is nothing but a window. We can register event handlers such as draw hander (in our case, "update") who is responsible for drawing on the canvas. After the frame is started, the registered draw handler is invoked about 60 times per second and updates the canvas as per the code in the draw handler (update) function. Code in this function draws the table, updates the ball position, and checks whether the ball is touching the paddle or not. If not touching the paddle, the opponent scores a point. Negates the "y" velocity vector when the ball touches either the top or bottom borders of the table. The score is updated on the screen. The " update" function draws ping-pong table borders, middle line, and left and right paddles. The "ball_init" function sets the ball position at the middle of the board and sets velocity vectors to some random values. The update function moves the ball position from its current position by adding velocity vectors. Also checks whether the ball is touching either the top or the bottom border of the table. If touches, the ball's vertical vector is reversed so that ball bounces back. If the ball touches the paddle, the horizontal vector is reversed so that the ball bounces in the horizontal direction. If the ball doesn't touch the paddle, the ball starts in the middle of the table.
 

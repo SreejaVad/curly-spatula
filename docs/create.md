@@ -78,7 +78,7 @@ Second Call: ball_init(False)
 
 
 Condition(s) tested by the first call:
->if direction:
+> if direction:
 ball_velocity[0] = ball_velocity[0]
 ball_velocity[1] = - ball_velocity[1]
 

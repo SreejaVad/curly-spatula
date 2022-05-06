@@ -6,6 +6,8 @@
 #### [Click Here to View Running Code On CodeSkulptor](https://py2.codeskulptor.org/#user49_RqH3NC6Ooe_0.py)
 #### [Click Here to View Raw Code on Github](https://github.com/SreejaVad/curly-spatula/blob/main/ponggame.py)
 
+# Create Task Written Response 
+
 #### 3a: (i) (ii) (iii) (147 words)
 > This program is intended to be a ping pong-inspired game that could serve as a 'brain-break' so students can take short intermissions in between their work in a more interactive way that wouldn't be as addicting as other video games and that could contrast the more academic aspects of their lives. This program is written in python and is a two-player game that uses the "W" & "S" and "UP" & "DOWN" keys to control each paddle. This game uses a GUI framework called "simplegui" to support windowing (frame) capabilities, window draw, and key handlers. The draw handler is responsible for drawing on the window so the viewer sees the updates of the game instantaneously.  As the players move the "UP" and "DOWN" keys, the input, the output results in the paddles moving up and down and the ball being moved to both sides of the screen.
 

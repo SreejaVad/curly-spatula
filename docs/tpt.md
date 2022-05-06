@@ -1,9 +1,9 @@
 {% include navigation.html %}
 # Proctored MCQ Week3 :  Quiz5 Corrections
 
-## Quiz3 Score: 38/50
+## Quiz5 Score: 38/50
 
-## Quiz3 Test Corrections: 12 Questions
+## Quiz5 Test Corrections: 12 Questions
 
 * **Question: 3**
 > * Original Answer: A B

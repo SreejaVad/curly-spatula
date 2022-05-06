@@ -1,41 +1,4 @@
 {% include navigation.html %}
-
-# TPT Work In Wiki
-<table>
-<tr>
-<td>Week 0</td>
-<td> 
-<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.1:-Beneficial-and-Harmful-Effects-of-Computing">5.1 Notes + Activity</a></b>
-
-<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.2:-Digital-Divide">5.2 Notes + Activity</a></b>
-</td>
-</tr>
-
-<tr>
-<td>Week 1</td>
-<td>  
-<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.3:-Computing-Bias">5.3 Notes + Activity</a></b>
-
-<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.4:-Crowd-sourcing">5.4 Notes + Activity</a></b>
-</td>
-</tr>
-
-<td>Week 2</td>
-<td>  
-<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.5:-Legal-and-Ethical-Concerns">5.5 Notes + Activity</a></b>
-
-<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Tri-3-Big-Idea-5.6:-Safe-Computing">5.6 Notes + Activity</a></b>
-<tr>
-
-<td>Week 6</td>
-<td>  
-<b><a href="https://github.com/SreejaVad/curly-spatula/wiki/Proctored-MCQ-Week1-:-Quiz1,-Quiz2-Test-Corrections">Quiz1, Quiz2 Test Corrections</a></b>
-<tr>
-</td>
-</tr>
-</table>
-<br>
-
 # Proctored MCQ Week3 :  Quiz5 Corrections
 
 ## Quiz3 Score: 38/50

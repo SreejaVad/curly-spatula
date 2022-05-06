@@ -55,6 +55,7 @@
 <td>Week 7: Proctored MCQ Week3</td>
 <td>  
 <a href="https://github.com/SreejaVad/curly-spatula/issues/7">Review Ticket, Proctored MCQ Week2</a>
+<br><a href="https://github.com/SreejaVad/curly-spatula/issues/1" target="_blank">Study Plan+Reflection</a>
 <tr>
 </td>
 </tr>

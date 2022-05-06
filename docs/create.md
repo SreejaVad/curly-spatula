@@ -6,6 +6,8 @@
 #### [Click Here to View Running Code On CodeSkulptor](https://py2.codeskulptor.org/#user49_RqH3NC6Ooe_0.py)
 #### [Click Here to View Raw Code on Github](https://github.com/SreejaVad/curly-spatula/blob/main/ponggame.py)
 
+<br>
+
 # Create Task Written Response 
 
 #### 3a: (i) (ii) (iii) (147 words)
